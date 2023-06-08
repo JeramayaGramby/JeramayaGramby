@@ -3,7 +3,7 @@ I'm a software developer hungry for new discoveries made through<br>Python and D
 
 <br> Take a look at my **search engine (FindAndSeek)**, Github, Linkedin and Medium article below!<br>
 
-Findandseek.click has been shut down until 3/25/2023<br><br>
+Findandseek.click has been shut down until further notice<br><br>
 
 
 ## 🌐 Socials:
