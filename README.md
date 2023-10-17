@@ -16,7 +16,7 @@ Findandseek.click has been shut down until further notice<br><br>
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JeramayaGramby&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeramayaGramby&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeramayaGramby&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 ---
