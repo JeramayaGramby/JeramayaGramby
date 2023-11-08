@@ -1,4 +1,4 @@
-# 💫 Jeramaya Gramby:
+# Jeramaya Gramby ☄️:
 
 Software Engineering Student | Passionate Developer | Data Enthusiast
 
