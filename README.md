@@ -1,9 +1,21 @@
 # 💫 About Me:
-I'm a software developer hungry for new discoveries made through<br>Python and DevOps practices. I bring software consulting experience <br>and a versatile Python skillset that includes experience in<br>Pandas, Numpy, NLTK, Tensorflow, PyPortfolioOpt, Flask and Tkinter <br>libraries. <br><br>My DevOps skillset includes Git, Terraform, Gitlab, S3, EC2, Route 53, <br>Cloudwatch, AWS CLI, Docker and CI/CD Automation. <br>cluster deployment. I also hold an AWS Cloud Practitioner certification.<br><br>In addition to these competencies I can also positively contribute <br>with purposeful communication through technical writing <br>and resourceful documentation.<br><br>My interests/hobbies are blockchain, data science, cloud <br>technologies, traveling, underground hip-hop and the <br>Golden State Warriors.<br><br>My projects implement machine learning, portfolio analysis, full stack development and data science 
+Jeramaya Gramby
 
-<br> Take a look at my **search engine (FindAndSeek)**, Github, Linkedin and Medium article below!<br>
+Software Engineering Student | Passionate Developer | Data Enthusiast
 
-Findandseek.click has been shut down until further notice<br><br>
+As a devoted software engineering student, I am driven by my passion for continuous learning and development. My keen interest in machine learning and data science has led me to create impactful applications in both C# and Python. My previously completed courses in Java and SQL have allowed me to further expand my tech stack and capabilities.
+
+In a recent financial data engineering project, I conducted Sharpe Ratio analysis to compare the performance of a stock portfolio with that of a cryptocurrency portfolio. This project not only enhanced my understanding of financial data but also sharpened my analytical skills, highlighting my ability to derive valuable insights from complex datasets.
+
+My exploration in the realm of DevOps includes the implementation of a Python cloud automation script utilizing the AWS SDK, as well as a Terraform project that integrates a GitLab CI/CD pipeline for an Auto Scaling Group. These experiences reflect my proficiency in orchestrating efficient and scalable cloud infrastructure, emphasizing my ability to streamline development processes.
+
+Furthermore, my AWS Cloud Practitioner certification has equipped me with the expertise to architect robust and scalable cloud-based solutions and positively contribute to cloud and DevOps engineering teams.
+
+With my strong focus on purposeful communication, I excel in technical writing and forming comprehensive documentation, ensuring transparency and simplified knowledge transfer among tech professionals.
+
+Beyond my professional pursuits, my interests include nature, football, basketball and automotive history
+
+Feel free to explore my work on GitHub, connect with me on LinkedIn, and don’t forget to check out my Medium articles!
 
 
 ## 🌐 Socials:
