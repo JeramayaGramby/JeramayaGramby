@@ -1,4 +1,4 @@
-# Jeramaya Gramby ☄️:
+# Jeramaya Gramby ☄️
 
 Software Engineering Student | Passionate Developer | Data Enthusiast
 
@@ -8,11 +8,11 @@ In a recent financial data engineering project, I conducted Sharpe Ratio analysi
 
 My exploration in the realm of DevOps includes the implementation of a Python cloud automation script utilizing the AWS SDK, as well as a Terraform project that integrates a GitLab CI/CD pipeline for an Auto Scaling Group. These experiences reflect my proficiency in orchestrating efficient and scalable cloud infrastructure, emphasizing my ability to streamline development processes.
 
-Furthermore, my AWS Cloud Practitioner certification has equipped me with the expertise to architect robust and scalable cloud-based solutions and positively contribute to cloud and DevOps engineering teams.
+Furthermore, my AWS Cloud Practitioner certification has equipped me with the expertise to architect robust and scalable cloud-based solutions and positively contribute to cloud and DevOps teams.
 
 With my strong focus on purposeful communication, I excel in technical writing and forming comprehensive documentation, ensuring transparency and simplified knowledge transfer among tech professionals.
 
-Beyond my professional pursuits, my interests include nature, football, basketball and automotive history
+Beyond my professional pursuits, my interests include nature, football, basketball and automotive history.
 
 Feel free to explore my work on GitHub, connect with me on LinkedIn, and don’t forget to check out my Medium articles!
 
