@@ -4,9 +4,9 @@ Software Engineering Student | Passionate Developer | Data Enthusiast
 
 As a devoted software engineering student, I am driven by my passion for continuous learning and development. My keen interest in machine learning and data science has led me to create impactful applications in both **C#**, **Python** and **Java**. 
 
-In a recent financial data engineering project, I conducted Sharpe Ratio analysis on daily closing price data to compare the performance of a stock portfolio with that of a cryptocurrency portfolio. This project not only enhanced my understanding of financial data but also sharpened my analytical skills, highlighting my ability to derive valuable insights from complex datasets.
+In a recent financial data engineering project, I conducted Sharpe Ratio analysis on daily closing price data to compare the performance of a stock portfolio with that of a cryptocurrency portfolio. This project sharpened my ability to derive valuable insights from complex datasets.
 
-My exploration in the realm of DevOps includes the implementation of a Python cloud automation script utilizing the AWS SDK, as well as a Terraform project that integrates a GitLab CI/CD pipeline for an Auto Scaling Group. These experiences reflect my proficiency in orchestrating efficient and scalable cloud infrastructure, emphasizing my ability to streamline development processes.
+These projects include a Python cloud automation script utilizing the AWS SDK, a Terraform project that integrates a GitLab CI/CD pipeline for an Auto Scaling Group. These experiences reflect my proficiency in orchestrating efficient and scalable cloud infrastructure, emphasizing my ability to streamline development processes.
 
 Furthermore, my **AWS Cloud Practitioner** certification has equipped me with the expertise to architect robust and scalable cloud-based solutions and positively contribute to cloud and DevOps teams.
 
