@@ -1,18 +1,18 @@
 # Jeramaya Gramby ☄️
 
-Software Engineering Student | Passionate Developer | Data Enthusiast
+Software Engineering Student | Cloud Developer | Data Enthusiast
 
-As a devoted software engineering student, I am driven by my passion for continuous learning and development. My keen interest in machine learning and data science has led me to create impactful applications in both **C#**, **Python** and **Java**. 
+My keen interest in machine learning, data science and cloud technologies has led me to create impactful applications in **C#**, **Python** and **Java**. 
 
 In a recent financial data engineering project, I conducted Sharpe Ratio analysis on daily closing price data to compare the performance of a stock portfolio with that of a cryptocurrency portfolio. This project sharpened my ability to derive valuable insights from complex datasets.
 
-These projects include a Python cloud automation script utilizing the AWS SDK, a Terraform project that integrates a GitLab CI/CD pipeline for an Auto Scaling Group. These experiences reflect my proficiency in orchestrating efficient and scalable cloud infrastructure, emphasizing my ability to streamline development processes.
+My cloud projects include a Python-based cloud automation script utilizing the AWS SDK and a Terraform project that integrates a GitLab CI/CD pipeline for an Auto Scaling Group in AWS.
 
 Furthermore, my **AWS Cloud Practitioner** certification has equipped me with the expertise to architect robust and scalable cloud-based solutions and positively contribute to cloud and DevOps teams.
 
-With my strong focus on purposeful communication, I excel in technical writing and forming comprehensive documentation, ensuring transparency and simplified knowledge transfer among tech professionals.
+Effective communication in technical workplaces is vital and is why I create transparency through my consise technical writing and comprehensive documentation.
 
-Beyond my professional pursuits, my interests include nature, football, basketball and automotive history.
+Beyond my professional pursuits, my interests include football, basketball, cars and time-traveling.
 
 Feel free to explore my work on GitHub, connect with me on LinkedIn, and don’t forget to check out my Medium articles!
 
