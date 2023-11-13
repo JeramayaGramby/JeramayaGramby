@@ -2,7 +2,7 @@
 
 Software Engineering Student | Cloud Developer | Data Enthusiast
 
-My keen interest in machine learning, data science and cloud technologies has led me to create impactful applications in **C#**, **Python** and **Java**. 
+My fascination with machine learning, data science and cloud technologies has led me to create impactful applications in **C#**, **Python** and **Java**. 
 
 In a recent financial data engineering project, I conducted Sharpe Ratio analysis on daily closing price data to compare the performance of a stock portfolio with that of a cryptocurrency portfolio. This project sharpened my ability to derive valuable insights from complex datasets.
 
