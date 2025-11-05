@@ -3,7 +3,7 @@
 
 
 
-[![Microprocessor board - photo by Umberto]([https://unsplash.com/photos/blue-circuit-board-jXd2FSvcRr8/umberto-jXd2FSvcRr8-unsplash.jpg](https://unsplash.com/photos/blue-circuit-board-jXd2FSvcRr8))
+[![Microprocessor board - photo by Umberto](https://unsplash.com/photos/blue-circuit-board-jXd2FSvcRr8)
 
 <br/>
 <br/>
