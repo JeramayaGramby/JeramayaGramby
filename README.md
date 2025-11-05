@@ -1,20 +1,27 @@
-# Jeramaya Gramby ☄️
+# Jeramaya Gramby
 
-Software Engineering Student | Cloud Developer | Data Enthusiast
 
-My fascination with machine learning, data science and cloud technologies has led me to create impactful applications in **C#**, **Python** and **C++**. 
 
-In a recent financial data engineering project, I conducted Sharpe Ratio analysis on daily closing price data to compare the performance of a stock portfolio with that of a cryptocurrency portfolio. This project sharpened my ability to derive valuable insights from complex datasets.
 
-My cloud projects include a Python-based cloud automation script utilizing the AWS SDK and a Terraform project that integrates a GitLab CI/CD pipeline for an Auto Scaling Group in AWS.
 
-Furthermore, my **AWS Cloud Practitioner** certification has equipped me with the expertise to architect robust and scalable cloud-based solutions and positively contribute to cloud and DevOps teams.
+[![Microprocessor board - photo by Umberto](https://unsplash.com/photos/blue-circuit-board-jXd2FSvcRr8/umberto-jXd2FSvcRr8-unsplash.jpg)
 
-Effective communication in technical workplaces is vital and is why I create transparency through my consise technical writing and comprehensive documentation.
+<br/>
+<br/>
+I build intelligent and efficient systems that merge data engineering, cloud automation, and low-level computing into practical, high-impact solutions. 
 
-Beyond my professional pursuits, my interests include football, basketball, cars and time-traveling.
+My work bridges software and hardware, spanning from embedded C++ systems and microprocessor optimization to Python-based analytics and machine learning applications that drive decision-making.
 
-Feel free to explore my work on GitHub, connect with me on LinkedIn, and don’t forget to check out my Medium articles!
+My curiosity for cross-disciplinary design has led me to develop both a C++ technical indicator generator and a Python financial analytics engine, tools that work together to evaluate market data and compute performance metrics such as Sharpe Ratios across stock and cryptocurrency portfolios. I also built an ML.NET regression model that predicts used car prices that you can learn more about on Medium. I built it for my friends so we all could make smarter car-buying decisions.
+
+Beyond software, I’m deeply interested in hardware development, material science, and photonics. I also spend time experimenting with resurrected microprocessors and motherboards that are either running live tests or waiting for their next experiment/project. 
+
+Being AWS Cloud Certified gives me the courage to design scalable, fault-tolerant cloud systems and leverage Terraform and CI/CD automation to integrate machine learning and real-time data processing at scale. 
+So long as the underlying program works consistently, clarity, reproducibility, and documentation are my top priorities in systems design.
+
+Outside of work, I’m passionate about football, basketball, cars, and writing programs and building physical hardware that solve problems.
+
+Explore my repositories, connect with me on LinkedIn, and check out my Medium articles for deeper insights into my projects and process.
 
 
 ## 🌐 Socials:
